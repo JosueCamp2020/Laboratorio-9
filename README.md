@@ -62,6 +62,26 @@
 
 5. EXPLICACIÓN / RESOLUCIÓN
 
+* Primer Circuito
+
+* Podemos observar que en este circuito se ha conectado la entrada no inversora a tierra, y también se conecta una resistencia, mientras que el voltaje inversor se ha conectado con una resistencia de retroalimentación Rf. Estos son los requisitos para tener un amplificador inversor, el comportamiento se relaciona directamente con su nombre, ya que este amplificador precisamente se encarga de mostrar una salida de señal inversa a la de entrada, que en nuestro caso es mayor y ha aumentado nuestro voltaje a un factor de 4.2965 V
+
+* Segundo Circuito
+
+* En el comportamiento de un circuito con amplificador integrador, se observa en la gráfica que a la salida hay una onda cuadrada bipolar la cual al pasar a través del amplificador operacional se obtiene en la salida una onda integral, esto se debe a que principalmente la onda rectangular se constituye por valores positivos y negativos y como se conoce, al integrar una constante lo que se obtiene es una recta con su respectiva pendiente, que dependerá de las contantes positivas y negativas que se tenga y también del factor que multiplica a toda la integral, el signo negativo en la integral nos indica que está en fase contraria respecto a la señal de entrada.
+
+* Tercer Circuito
+
+En esta gráfica también tenemos un amplificador inversor por lo que tiene el mismo análisis que el primer diagrama, con la diferencia de que hay dos señales que corresponden a las fuentes de entrada, con ayuda de cálculos se obtiene que este voltaje de entrada tiene un valor de 2V y en el voltaje de salida tenemos 8.33V, por lo que concluimos que el voltaje se ha amplificado a un valor de 6.33V.
+
+- Conclucion en una tabla.
+
+|  | VOLTAJE ENTRADA | VOLTAJE SALIDA |
+| | |
+| 1ER CIRCUITO | 0.70711 | 4.2965 |
+| 2DO CIRCUITO | 3.53 | -12 |
+| 3ER CIRCUITO | 2 | 8.32 |
+
 6. MANUAL DE USUARIO
 
 Link Manual: https://github.com/JosueCamp2020/Laboratorio-9/blob/main/Anexos/Multisim.pdf
