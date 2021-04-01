@@ -102,7 +102,7 @@ RESPUESTA = Entre los principales parámetros que se deben considerar son:
 
 - Componente de retroalimentación = Dependiendo de este componente cambiará el amplificador, por ejemplo si fuese una resistencia podriamos hablar de un amplificador inversor, pero si conectamos un capacitor lo que se obtiene es un amplificador integrador.
 
--Impedancia de entrada = Son los componentes que se oponen al flujo de corriente como las resistencias.
+- Impedancia de entrada = Son los componentes que se oponen al flujo de corriente como las resistencias.
 
 - Tensión de alimentación = Se refiere a la máxima alimentación que se aplica en los terminales, tomando en cuenta que no exista un flujo excesivo de corriente.
 
