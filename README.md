@@ -15,7 +15,7 @@
 
 2. MARCO TEORICO
 
-![]()
+![](https://github.com/JosueCamp2020/Laboratorio-9/blob/main/Imagenes/Marco.jpeg)
 
 3. DIAGRAMAS
 
@@ -135,7 +135,5 @@ Las aplicaciones más comunes, corresponden a amplificadores sumadores, restador
 9. BIBLIOGRAFIA
 
 * Charles K. Alexander, Matthew N. O. Sadiku, Fundamentos de circuitos eléctricos. Tercera edición. México: McGrawHill, 2004.
-
 * Lifeder, Onda senoidal. Recuperado de: https://www.lifeder.com/onda-senoidal/
-
-
+* Floyd, T. L. ( 2007). Principios de circuitos eléctricos (Vol. Octava edición). México: Pearson Educación.
