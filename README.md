@@ -76,8 +76,8 @@ En esta gráfica también tenemos un amplificador inversor por lo que tiene el m
 
 - Conclucion en una tabla.
 
-|  | VOLTAJE ENTRADA | VOLTAJE SALIDA |
-| | |
+| - | VOLTAJE ENTRADA | VOLTAJE SALIDA |
+| - | - | - |
 | 1ER CIRCUITO | 0.70711 | 4.2965 |
 | 2DO CIRCUITO | 3.53 | -12 |
 | 3ER CIRCUITO | 2 | 8.32 |
