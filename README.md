@@ -25,7 +25,7 @@
 
 * Armado Circuito 1 en Multisim Live.
 
-![](https://github.com/JosueCamp2020/Laboratorio-9/blob/main/Imagenes/Circuito1.png)
+![](https://github.com/JosueCamp2020/Laboratorio-9/blob/main/Imagenes/Circuito1.1.png)
 
 * Osciloscopio y Medicion de Voltaje de Entrada y Salida
 
@@ -33,7 +33,7 @@
 
 * Armado Circuito 2 en Multisim Live.
 
-![](https://github.com/JosueCamp2020/Laboratorio-9/blob/main/Imagenes/Circuito2.png)
+![](https://github.com/JosueCamp2020/Laboratorio-9/blob/main/Imagenes/Circuito2.1.png)
 
 * Osciloscopio y Medicion de Voltaje de Entrada y Salida
 
@@ -41,7 +41,7 @@
 
 * Armado Circuito 3 en Multisim Live.
 
-![](https://github.com/JosueCamp2020/Laboratorio-9/blob/main/Imagenes/Circuito3.png)
+![](https://github.com/JosueCamp2020/Laboratorio-9/blob/main/Imagenes/Circuito3.1.png)
 
 * Osciloscopio y Medicion de Voltaje de Entrada y Salida
 
